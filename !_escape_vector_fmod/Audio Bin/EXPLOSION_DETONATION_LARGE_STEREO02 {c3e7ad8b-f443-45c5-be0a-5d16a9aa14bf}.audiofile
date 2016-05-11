@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{c3e7ad8b-f443-45c5-be0a-5d16a9aa14bf}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.6234013605442179</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>1417534826</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/EXPLOSION_DETONATION_LARGE_STEREO02 {fa8aa95d-464c-4349-8522-2a50eb0e8c39}.WAV</value>
+        </property>
+        <relationship name="container">
+            <destination>{34519875-2bf0-40ca-b913-1b27c5a2e6a4}</destination>
+        </relationship>
+    </object>
+</objects>

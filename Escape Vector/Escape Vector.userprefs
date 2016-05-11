@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\ToolsetDemo\Assets\Myo Samples\Scripts\JointOrientation.cs">
+    <Files>
+      <File FileName="..\..\ToolsetDemo\Assets\ParticleColourControl.cs" Line="92" Column="3" />
+      <File FileName="..\..\ToolsetDemo\Assets\Myo Samples\Scripts\JointOrientation.cs" Line="146" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

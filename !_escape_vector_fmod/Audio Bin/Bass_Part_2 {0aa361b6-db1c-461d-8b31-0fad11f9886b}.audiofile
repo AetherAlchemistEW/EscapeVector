@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{0aa361b6-db1c-461d-8b31-0fad11f9886b}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>14.769229024943311</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>1417528930</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Bass_Part_2 {c1106e60-3dd4-4d53-8901-f367e05f8759}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{34519875-2bf0-40ca-b913-1b27c5a2e6a4}</destination>
+        </relationship>
+    </object>
+</objects>

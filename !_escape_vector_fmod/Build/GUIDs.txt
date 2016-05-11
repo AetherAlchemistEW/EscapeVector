@@ -1,0 +1,13 @@
+{31a50717-35d4-46e0-af6e-dd6b50397c67} event:/Atmos/Soundscape
+{ce68f5ed-a5f7-4395-9376-94da6e6c4c9c} event:/Game_Events/E_Explosion
+{039d0ee2-4785-4055-ae13-162d4bc4591d} event:/Game_Events/P_Low_Health_Warning
+{c7090910-2c98-42fe-aa5b-d0db14177465} event:/Game_Events/P_Movement
+{22584ece-9c5c-4f48-9ca9-114d15bd7a1a} event:/Game_Events/PU_Bomb
+{ef29f15e-8ba2-4c90-bbd9-e5c81492b7ba} event:/Game_Events/PU_Health
+{06b8057f-8d56-4811-96ea-20579ce97aae} event:/Game_Events/PU_Shield
+{26d27693-a539-49ad-b5f4-ab8f58ffcc2d} event:/Game_Events/PU_SpeedBoost
+{76d4e3d9-dc30-49fc-9922-2dfc8ba5252e} event:/Main_Music/Main_Music
+{32352e66-be66-4ad2-ac6d-b99824d15e0e} event:/UI_Sounds/Input
+{8d4c501f-7c05-4972-86b9-339f853be8a3} bus:/
+{7c36ba16-8c46-4e4e-b350-1456e3bc9028} bus:/Reverb
+{fd7a90db-baf5-40b4-bf86-0c4bfc89a6e4} bank:/Master Bank

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{3e982258-8c5f-4ab6-9d4a-a3b9e159598e}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>14.769229024943311</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>1417528932</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Drum_Part_1 {26bd00cc-103c-4108-a3e1-b38946c3d663}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{34519875-2bf0-40ca-b913-1b27c5a2e6a4}</destination>
+        </relationship>
+    </object>
+</objects>

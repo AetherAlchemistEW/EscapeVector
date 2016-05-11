@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\ShortFuse\Assets\Created\Scripts\GameMaster.cs">
+    <Files>
+      <File FileName="..\ShortFuse\Assets\Created\Scripts\Bomb.cs" Line="44" Column="49" />
+      <File FileName="..\ShortFuse\Assets\Created\Scripts\GameMaster.cs" Line="72" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

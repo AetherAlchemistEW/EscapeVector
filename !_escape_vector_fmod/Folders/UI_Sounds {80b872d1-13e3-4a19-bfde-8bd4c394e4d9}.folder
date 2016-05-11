@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="Folder" id="{80b872d1-13e3-4a19-bfde-8bd4c394e4d9}">
+        <property name="name">
+            <value>UI_Sounds</value>
+        </property>
+        <relationship name="folder">
+            <destination>{cf7f2493-975f-4472-be12-2383869e65cc}</destination>
+        </relationship>
+    </object>
+</objects>
